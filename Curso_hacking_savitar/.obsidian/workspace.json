@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f19db540225fb021",
+    "type": "split",
+    "children": [
+      {
+        "id": "af70aaae17ace1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099e57e226a71364",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caee83a81d81eeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef38be3b3b0d5eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd43bcfdd0c7b2cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68caf1a8268d08a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb422905d6b42e4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c1eaffa93afc4ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ace5ee2436af8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036f9573d9e30030",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2619858b166bb0b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a89856375b56409",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b58c139a2be5f3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fd43bcfdd0c7b2cb",
+  "lastOpenFiles": [
+    "2.Reconocimiento",
+    "1.Conceptos Básicos/Subnetting.md",
+    "1.Conceptos Básicos/Modelo OSI.md",
+    "1.Conceptos Básicos/Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
+    "1.Conceptos Básicos/IMAGES/Pasted image 20240714162322.png",
+    "1.Conceptos Básicos/Direcciones MAC (OUI y NIC).md",
+    "1.Conceptos Básicos/Direcciones IP (Ipv4 e Ipv6).md",
+    "sortspec.md",
+    "1.Conceptos Básicos/IMAGES",
+    "1.Conceptos Básicos/IMAGES/Pasted image 20240714161329.png",
+    "1.Conceptos Básicos",
+    "Welcome.md"
+  ]
+}
