@@ -11,8 +11,12 @@
             "id": "099e57e226a71364",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Reconocimiento/3.Scripts NMAP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Reconocimiento/3.Scripts NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2.Reconocimiento/3.Scripts NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2.Reconocimiento/3.Scripts NMAP.md"
+              }
             }
           }
         ]
@@ -135,19 +143,30 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fd43bcfdd0c7b2cb",
+  "active": "099e57e226a71364",
   "lastOpenFiles": [
-    "2.Reconocimiento",
-    "1.Conceptos Básicos/Subnetting.md",
-    "1.Conceptos Básicos/Modelo OSI.md",
-    "1.Conceptos Básicos/Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
-    "1.Conceptos Básicos/IMAGES/Pasted image 20240714162322.png",
-    "1.Conceptos Básicos/Direcciones MAC (OUI y NIC).md",
-    "1.Conceptos Básicos/Direcciones IP (Ipv4 e Ipv6).md",
+    "1.Conceptos Básicos/3.Modelo OSI.md",
+    "2.Reconocimiento/1.NMAP.md",
+    "2.Reconocimiento/3.Scripts NMAP.md",
     "sortspec.md",
+    "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
+    "Sin título.md",
+    "2.Reconocimiento/IMAGES/Pasted image 20240716013027.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240716012852.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240716005812.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240716004828.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240716004728.png",
+    "2.Reconocimiento/IMAGES",
+    "2.Reconocimiento",
+    "1.Conceptos Básicos/5.Subnetting.md",
+    "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
+    "1.Conceptos Básicos/IMAGES/Pasted image 20240714162322.png",
+    "1.Conceptos Básicos/2.Direcciones MAC (OUI y NIC).md",
+    "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
     "1.Conceptos Básicos/IMAGES",
     "1.Conceptos Básicos/IMAGES/Pasted image 20240714161329.png",
     "1.Conceptos Básicos",
