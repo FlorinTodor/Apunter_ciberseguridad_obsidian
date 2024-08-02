@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
+                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
+                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
+                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md"
+                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md"
               }
             }
           }
@@ -149,31 +149,35 @@
   },
   "active": "099e57e226a71364",
   "lastOpenFiles": [
-    "2.Reconocimiento/1.NMAP.md",
-    "1.Conceptos Básicos/3.Modelo OSI.md",
-    "1.Conceptos Básicos/5.Subnetting.md",
-    "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
-    "sortspec.md",
-    "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803001533.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803001402.png",
     "2.Reconocimiento/4.Alternativas para la enumeración.md",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716150332.png",
+    "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
+    "1.Conceptos Básicos/5.Subnetting.md",
+    "1.Conceptos Básicos/2.Direcciones MAC (OUI y NIC).md",
+    "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
+    "2.Reconocimiento/IMAGES/Pasted image 20240802235105.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240802234914.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240802234317.png",
     "2.Reconocimiento/3.Scripts NMAP.md",
+    "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
+    "2.Reconocimiento/1.NMAP.md",
+    "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
+    "1.Conceptos Básicos/3.Modelo OSI.md",
+    "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
+    "Apuntes_variados/Apuntes_variados/Sin título.canvas",
+    "Apuntes_variados/Apuntes_variados/Bienvenido.md",
+    "sortspec.md",
+    "2.Reconocimiento/IMAGES/Pasted image 20240716150332.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240716144804.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240716142139.png",
-    "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
     "Sin título.md",
     "2.Reconocimiento/IMAGES/Pasted image 20240716013027.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240716012852.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240716005812.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716004828.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716004728.png",
     "2.Reconocimiento/IMAGES",
     "2.Reconocimiento",
-    "1.Conceptos Básicos/IMAGES/Pasted image 20240714162322.png",
-    "1.Conceptos Básicos/2.Direcciones MAC (OUI y NIC).md",
-    "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
     "1.Conceptos Básicos/IMAGES",
-    "1.Conceptos Básicos/IMAGES/Pasted image 20240714161329.png",
     "1.Conceptos Básicos",
     "Welcome.md"
   ]
