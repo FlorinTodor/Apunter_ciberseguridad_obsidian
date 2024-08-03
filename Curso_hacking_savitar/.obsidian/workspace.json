@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "099e57e226a71364",
+            "id": "189ebd1cd4e165fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
+                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
+                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
+                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md"
+                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md"
               }
             }
           }
@@ -147,34 +147,48 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "099e57e226a71364",
+  "active": "189ebd1cd4e165fb",
   "lastOpenFiles": [
-    "2.Reconocimiento/IMAGES/Pasted image 20240803001533.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803001402.png",
-    "2.Reconocimiento/4.Alternativas para la enumeración.md",
-    "2.Reconocimiento/5.Equipos en red local (ARP e ICMP).md",
+    "2.Reconocimiento/14. Detectar SO.md",
+    "2.Reconocimiento/1.NMAP/2.Técnicas de evasión de Firewalls.md",
+    "2.Reconocimiento/1.NMAP/1.NMAP.md",
+    "2.Reconocimiento/5.WEB/12.Fuzzing y enumeración de archivos en un servidor web.md",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803194840.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803193822.png",
+    "2.Reconocimiento/5.WEB/13. Google Dorks (Filtros).md",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803192337.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803191027.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803191013.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803184314.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803183637.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803183307.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803182821.png",
+    "2.Reconocimiento/IMAGES/Pasted image 20240803182802.png",
+    "2.Reconocimiento/5.WEB/11. Identificación de las tecnologías de una web.md",
+    "2.Reconocimiento/4.OSINT/10.Uso de brechas de seguridad.md",
+    "2.Reconocimiento/5.WEB",
+    "2.Reconocimiento/2.Alternativas/9.Enumeración de subdominios.md",
+    "2.Reconocimiento/4.OSINT/7.Descubrimiento de correos electrónicos.md",
+    "2.Reconocimiento/2.Alternativas/4.Alternativas para la enumeración.md",
+    "2.Reconocimiento/2.Alternativas/5.Equipos en red local (ARP e ICMP).md",
+    "2.Reconocimiento/4.OSINT/8.Reconocimiento de imágenes.md",
+    "2.Reconocimiento/sortspec.md",
+    "sortspec.md",
+    "2.Reconocimiento/3.Bug_Bounty",
+    "2.Reconocimiento/2.Alternativas",
+    "2.Reconocimiento/1.NMAP",
+    "2.Reconocimiento/4.OSINT",
+    "2.Reconocimiento/3.Bug_Bounty/6. Hackerone.md",
     "1.Conceptos Básicos/5.Subnetting.md",
     "1.Conceptos Básicos/2.Direcciones MAC (OUI y NIC).md",
     "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
-    "2.Reconocimiento/IMAGES/Pasted image 20240802235105.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240802234914.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240802234317.png",
-    "2.Reconocimiento/3.Scripts NMAP.md",
-    "2.Reconocimiento/2.Técnicas de evasión de Firewalls.md",
-    "2.Reconocimiento/1.NMAP.md",
+    "2.Reconocimiento/1.NMAP/3.Scripts NMAP.md",
     "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
     "1.Conceptos Básicos/3.Modelo OSI.md",
     "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas",
     "Apuntes_variados/Apuntes_variados/Bienvenido.md",
-    "sortspec.md",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716150332.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716144804.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716142139.png",
     "Sin título.md",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716013027.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716012852.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240716005812.png",
     "2.Reconocimiento/IMAGES",
     "2.Reconocimiento",
     "1.Conceptos Básicos/IMAGES",
