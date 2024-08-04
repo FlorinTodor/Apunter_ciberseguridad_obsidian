@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md",
+                "file": "3.Docker/15.Introducción a Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md",
+                "file": "3.Docker/15.Introducción a Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md",
+                "file": "3.Docker/15.Introducción a Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Reconocimiento/1.NMAP/1.NMAP.md"
+                "file": "3.Docker/15.Introducción a Docker.md"
               }
             }
           }
@@ -149,9 +149,19 @@
   },
   "active": "189ebd1cd4e165fb",
   "lastOpenFiles": [
+    "3.Docker/16. Laboratorios.md",
+    "3.Docker/15.Introducción a Docker.md",
+    "3.Docker/IMAGES/Pasted image 20240804224521.png",
+    "3.Docker/IMAGES/Pasted image 20240804224002.png",
+    "3.Docker/IMAGES/Pasted image 20240804220004.png",
+    "1.Conceptos Básicos/sortspec.md",
+    "3.Docker/sortspec.md",
+    "sortspec.md",
+    "2.Reconocimiento/1.NMAP/1.NMAP.md",
+    "3.Docker/IMAGES",
+    "3.Docker",
     "2.Reconocimiento/14. Detectar SO.md",
     "2.Reconocimiento/1.NMAP/2.Técnicas de evasión de Firewalls.md",
-    "2.Reconocimiento/1.NMAP/1.NMAP.md",
     "2.Reconocimiento/5.WEB/12.Fuzzing y enumeración de archivos en un servidor web.md",
     "2.Reconocimiento/IMAGES/Pasted image 20240803194840.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240803193822.png",
@@ -161,9 +171,6 @@
     "2.Reconocimiento/IMAGES/Pasted image 20240803191013.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240803184314.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240803183637.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803183307.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803182821.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803182802.png",
     "2.Reconocimiento/5.WEB/11. Identificación de las tecnologías de una web.md",
     "2.Reconocimiento/4.OSINT/10.Uso de brechas de seguridad.md",
     "2.Reconocimiento/5.WEB",
@@ -173,7 +180,6 @@
     "2.Reconocimiento/2.Alternativas/5.Equipos en red local (ARP e ICMP).md",
     "2.Reconocimiento/4.OSINT/8.Reconocimiento de imágenes.md",
     "2.Reconocimiento/sortspec.md",
-    "sortspec.md",
     "2.Reconocimiento/3.Bug_Bounty",
     "2.Reconocimiento/2.Alternativas",
     "2.Reconocimiento/1.NMAP",
@@ -187,12 +193,8 @@
     "1.Conceptos Básicos/3.Modelo OSI.md",
     "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas",
-    "Apuntes_variados/Apuntes_variados/Bienvenido.md",
-    "Sin título.md",
     "2.Reconocimiento/IMAGES",
     "2.Reconocimiento",
-    "1.Conceptos Básicos/IMAGES",
-    "1.Conceptos Básicos",
-    "Welcome.md"
+    "1.Conceptos Básicos/IMAGES"
   ]
 }
