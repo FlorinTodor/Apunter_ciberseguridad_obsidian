@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Docker/15.Introducción a Docker.md",
+                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Docker/15.Introducción a Docker.md",
+                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Docker/15.Introducción a Docker.md",
+                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Docker/15.Introducción a Docker.md"
+                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md"
               }
             }
           }
@@ -147,16 +147,29 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "189ebd1cd4e165fb",
+  "active": "fd43bcfdd0c7b2cb",
   "lastOpenFiles": [
-    "3.Docker/16. Laboratorios.md",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002622.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002542.png",
+    "4.Servicios comunes y Gestor de contenidos/18.SSH.md",
+    "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
+    "Apuntes_variados/Apuntes_variados/SSL.md",
+    "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
+    "Apuntes_variados/Apuntes_variados/Bienvenido.md",
+    "Apuntes_variados/Apuntes_variados/2024-07-17.md",
+    "4.Servicios comunes y Gestor de contenidos/17.FTP.md",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806000639.png",
+    "4.Servicios comunes y Gestor de contenidos/sortspec.md",
+    "sortspec.md",
     "3.Docker/15.Introducción a Docker.md",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES",
+    "4.Servicios comunes y Gestor de contenidos",
+    "3.Docker/16. Laboratorios.md",
     "3.Docker/IMAGES/Pasted image 20240804224521.png",
     "3.Docker/IMAGES/Pasted image 20240804224002.png",
     "3.Docker/IMAGES/Pasted image 20240804220004.png",
     "1.Conceptos Básicos/sortspec.md",
     "3.Docker/sortspec.md",
-    "sortspec.md",
     "2.Reconocimiento/1.NMAP/1.NMAP.md",
     "3.Docker/IMAGES",
     "3.Docker",
@@ -169,8 +182,6 @@
     "2.Reconocimiento/IMAGES/Pasted image 20240803192337.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240803191027.png",
     "2.Reconocimiento/IMAGES/Pasted image 20240803191013.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803184314.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803183637.png",
     "2.Reconocimiento/5.WEB/11. Identificación de las tecnologías de una web.md",
     "2.Reconocimiento/4.OSINT/10.Uso de brechas de seguridad.md",
     "2.Reconocimiento/5.WEB",
@@ -179,22 +190,11 @@
     "2.Reconocimiento/2.Alternativas/4.Alternativas para la enumeración.md",
     "2.Reconocimiento/2.Alternativas/5.Equipos en red local (ARP e ICMP).md",
     "2.Reconocimiento/4.OSINT/8.Reconocimiento de imágenes.md",
-    "2.Reconocimiento/sortspec.md",
     "2.Reconocimiento/3.Bug_Bounty",
     "2.Reconocimiento/2.Alternativas",
     "2.Reconocimiento/1.NMAP",
     "2.Reconocimiento/4.OSINT",
-    "2.Reconocimiento/3.Bug_Bounty/6. Hackerone.md",
-    "1.Conceptos Básicos/5.Subnetting.md",
-    "1.Conceptos Básicos/2.Direcciones MAC (OUI y NIC).md",
-    "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
-    "2.Reconocimiento/1.NMAP/3.Scripts NMAP.md",
-    "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
-    "1.Conceptos Básicos/3.Modelo OSI.md",
-    "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas",
-    "2.Reconocimiento/IMAGES",
-    "2.Reconocimiento",
-    "1.Conceptos Básicos/IMAGES"
+    "2.Reconocimiento/IMAGES"
   ]
 }
