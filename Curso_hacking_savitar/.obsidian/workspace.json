@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
+                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
+                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
+                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md"
+                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md"
               }
             }
           }
@@ -147,12 +147,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fd43bcfdd0c7b2cb",
+  "active": "189ebd1cd4e165fb",
   "lastOpenFiles": [
+    "4.Servicios comunes y Gestor de contenidos/20.SMB-SAMBA.md",
+    "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125303.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125241.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125205.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125119.png",
+    "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
     "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002622.png",
     "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002542.png",
     "4.Servicios comunes y Gestor de contenidos/18.SSH.md",
-    "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
     "Apuntes_variados/Apuntes_variados/SSL.md",
     "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
     "Apuntes_variados/Apuntes_variados/Bienvenido.md",
@@ -176,12 +182,7 @@
     "2.Reconocimiento/14. Detectar SO.md",
     "2.Reconocimiento/1.NMAP/2.Técnicas de evasión de Firewalls.md",
     "2.Reconocimiento/5.WEB/12.Fuzzing y enumeración de archivos en un servidor web.md",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803194840.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803193822.png",
     "2.Reconocimiento/5.WEB/13. Google Dorks (Filtros).md",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803192337.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803191027.png",
-    "2.Reconocimiento/IMAGES/Pasted image 20240803191013.png",
     "2.Reconocimiento/5.WEB/11. Identificación de las tecnologías de una web.md",
     "2.Reconocimiento/4.OSINT/10.Uso de brechas de seguridad.md",
     "2.Reconocimiento/5.WEB",
@@ -189,7 +190,6 @@
     "2.Reconocimiento/4.OSINT/7.Descubrimiento de correos electrónicos.md",
     "2.Reconocimiento/2.Alternativas/4.Alternativas para la enumeración.md",
     "2.Reconocimiento/2.Alternativas/5.Equipos en red local (ARP e ICMP).md",
-    "2.Reconocimiento/4.OSINT/8.Reconocimiento de imágenes.md",
     "2.Reconocimiento/3.Bug_Bounty",
     "2.Reconocimiento/2.Alternativas",
     "2.Reconocimiento/1.NMAP",
