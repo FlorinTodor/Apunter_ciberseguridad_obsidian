@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
+                "file": "3.Docker/15.Introducción a Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
+                "file": "3.Docker/15.Introducción a Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
+                "file": "3.Docker/15.Introducción a Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md"
+                "file": "3.Docker/15.Introducción a Docker.md"
               }
             }
           }
@@ -149,31 +149,32 @@
   },
   "active": "189ebd1cd4e165fb",
   "lastOpenFiles": [
+    "4.Servicios comunes y Gestor de contenidos/CMS/21. Gestor de conectenido (WordPress).md",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809162432.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809162446.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809160657.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809154838.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809161727.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809161642.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809161620.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809160859.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809160709.png",
+    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809154813.png",
+    "3.Docker/15.Introducción a Docker.md",
+    "4.Servicios comunes y Gestor de contenidos/CMS",
     "4.Servicios comunes y Gestor de contenidos/20.SMB-SAMBA.md",
-    "4.Servicios comunes y Gestor de contenidos/21. Gestor de conectenido (WordPress).md",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125303.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125241.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125205.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806125119.png",
     "4.Servicios comunes y Gestor de contenidos/19.HTTP-HTTPS.md",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002622.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806002542.png",
     "4.Servicios comunes y Gestor de contenidos/18.SSH.md",
     "Apuntes_variados/Apuntes_variados/SSL.md",
     "Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
     "Apuntes_variados/Apuntes_variados/Bienvenido.md",
     "Apuntes_variados/Apuntes_variados/2024-07-17.md",
     "4.Servicios comunes y Gestor de contenidos/17.FTP.md",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240806000639.png",
     "4.Servicios comunes y Gestor de contenidos/sortspec.md",
     "sortspec.md",
-    "3.Docker/15.Introducción a Docker.md",
     "4.Servicios comunes y Gestor de contenidos/IMAGES",
     "4.Servicios comunes y Gestor de contenidos",
     "3.Docker/16. Laboratorios.md",
-    "3.Docker/IMAGES/Pasted image 20240804224521.png",
-    "3.Docker/IMAGES/Pasted image 20240804224002.png",
-    "3.Docker/IMAGES/Pasted image 20240804220004.png",
     "1.Conceptos Básicos/sortspec.md",
     "3.Docker/sortspec.md",
     "2.Reconocimiento/1.NMAP/1.NMAP.md",
@@ -189,12 +190,10 @@
     "2.Reconocimiento/2.Alternativas/9.Enumeración de subdominios.md",
     "2.Reconocimiento/4.OSINT/7.Descubrimiento de correos electrónicos.md",
     "2.Reconocimiento/2.Alternativas/4.Alternativas para la enumeración.md",
-    "2.Reconocimiento/2.Alternativas/5.Equipos en red local (ARP e ICMP).md",
     "2.Reconocimiento/3.Bug_Bounty",
     "2.Reconocimiento/2.Alternativas",
     "2.Reconocimiento/1.NMAP",
     "2.Reconocimiento/4.OSINT",
-    "Apuntes_variados/Apuntes_variados/Sin título.canvas",
-    "2.Reconocimiento/IMAGES"
+    "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
