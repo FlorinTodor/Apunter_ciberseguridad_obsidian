@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "189ebd1cd4e165fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Servicios comunes y Gestor de contenidos/4.1 Services/17.FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "86bbcc4303ce6005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1.Conceptos Básicos/5.Subnetting.md",
-                "mode": "source",
-                "source": false
+                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Conceptos Básicos/5.Subnetting.md",
+                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Conceptos Básicos/5.Subnetting.md",
+                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Conceptos Básicos/5.Subnetting.md"
+                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png"
               }
             }
           }
@@ -162,9 +147,22 @@
   },
   "active": "86bbcc4303ce6005",
   "lastOpenFiles": [
-    "1.Conceptos Básicos/IMAGES/Pasted image 20240811000910.png",
-    "4.Servicios comunes y Gestor de contenidos/4.1 Services/17.FTP.md",
+    "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003658.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003636.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003616.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003558.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003320.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002812.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002640.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002631.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002603.png",
+    "5.Explotación_vulnerabilidades/26.Tipos de Payloads.md",
+    "5.Explotación_vulnerabilidades/25.Tipos de Shells.md",
+    "5.Explotación_vulnerabilidades/IMAGES",
     "1.Conceptos Básicos/5.Subnetting.md",
+    "4.Servicios comunes y Gestor de contenidos/4.1 Services/17.FTP.md",
     "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
     "1.Conceptos Básicos/3.Modelo OSI.md",
     "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
@@ -180,16 +178,6 @@
     "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/22.CMS-Joomla.md",
     "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/21.CMS-WordPress.md",
     "3.Docker/15.Introducción a Docker.md",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809162432.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809162446.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809160657.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809154838.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809161727.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809161642.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809161620.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809160859.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809160709.png",
-    "4.Servicios comunes y Gestor de contenidos/IMAGES/Pasted image 20240809154813.png",
     "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)",
     "4.Servicios comunes y Gestor de contenidos/4.1 Services/20.SMB-SAMBA.md",
     "4.Servicios comunes y Gestor de contenidos/4.1 Services/19.HTTP-HTTPS.md",
@@ -200,14 +188,10 @@
     "4.Servicios comunes y Gestor de contenidos",
     "3.Docker/16. Laboratorios.md",
     "1.Conceptos Básicos/sortspec.md",
-    "3.Docker/sortspec.md",
-    "2.Reconocimiento/1.NMAP/1.NMAP.md",
     "3.Docker/IMAGES",
     "3.Docker",
-    "2.Reconocimiento/14. Detectar SO.md",
     "2.Reconocimiento/5.WEB",
     "2.Reconocimiento/3.Bug_Bounty",
-    "2.Reconocimiento/2.Alternativas",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
