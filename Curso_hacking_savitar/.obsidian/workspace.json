@@ -11,9 +11,11 @@
             "id": "86bbcc4303ce6005",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png"
+                "file": "6.BurpSuite/29. Burpsuite Tool.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
+                "file": "6.BurpSuite/29. Burpsuite Tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
+                "file": "6.BurpSuite/29. Burpsuite Tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png"
+                "file": "6.BurpSuite/29. Burpsuite Tool.md"
               }
             }
           }
@@ -147,17 +149,22 @@
   },
   "active": "86bbcc4303ce6005",
   "lastOpenFiles": [
-    "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
+    "Pasted image 20240816233225.png",
+    "Pasted image 20240816231754.png",
+    "6.BurpSuite/IMAGES",
+    "6.BurpSuite/IMAGES/Pasted image 20240816230946.png",
+    "5.Explotación_vulnerabilidades/28.Enumeración del sistema.md",
+    "6.BurpSuite/29. Burpsuite Tool.md",
+    "6.BurpSuite",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240816223257.png",
+    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240816221959.png",
     "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
+    "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
     "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003658.png",
     "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003636.png",
     "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003616.png",
     "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003558.png",
     "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003320.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002812.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002640.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002631.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815002603.png",
     "5.Explotación_vulnerabilidades/26.Tipos de Payloads.md",
     "5.Explotación_vulnerabilidades/25.Tipos de Shells.md",
     "5.Explotación_vulnerabilidades/IMAGES",
@@ -186,12 +193,8 @@
     "4.Servicios comunes y Gestor de contenidos/sortspec.md",
     "4.Servicios comunes y Gestor de contenidos/IMAGES",
     "4.Servicios comunes y Gestor de contenidos",
-    "3.Docker/16. Laboratorios.md",
-    "1.Conceptos Básicos/sortspec.md",
     "3.Docker/IMAGES",
     "3.Docker",
-    "2.Reconocimiento/5.WEB",
-    "2.Reconocimiento/3.Bug_Bounty",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
