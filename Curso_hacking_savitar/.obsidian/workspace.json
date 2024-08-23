@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md"
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fd43bcfdd0c7b2cb",
+  "active": "86bbcc4303ce6005",
   "lastOpenFiles": [
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/0.SQLI.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823230824.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823230737.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823230628.png",
@@ -159,10 +162,7 @@
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823220126.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823215652.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823215613.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823215503.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/0.SQLI.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
     "6.BurpSuite/29. Burpsuite Tool.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI",
     "7. OWASP TOP 10 y Vulnerabilidades WEB",
