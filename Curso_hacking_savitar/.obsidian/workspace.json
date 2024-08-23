@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.BurpSuite/29. Burpsuite Tool.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.BurpSuite/29. Burpsuite Tool.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.BurpSuite/29. Burpsuite Tool.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.BurpSuite/29. Burpsuite Tool.md"
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md"
               }
             }
           }
@@ -149,22 +149,27 @@
   },
   "active": "fd43bcfdd0c7b2cb",
   "lastOpenFiles": [
-    "6.BurpSuite/IMAGES/Pasted image 20240816233225.png",
-    "6.BurpSuite/IMAGES/Pasted image 20240816231754.png",
-    "6.BurpSuite/IMAGES",
-    "6.BurpSuite/IMAGES/Pasted image 20240816230946.png",
-    "5.Explotación_vulnerabilidades/28.Enumeración del sistema.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823230824.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823230737.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823230628.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823225315.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823225155.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823225140.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823224221.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823220126.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823215652.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823215613.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES/Pasted image 20240823215503.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/0.SQLI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
     "6.BurpSuite/29. Burpsuite Tool.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB",
+    "6.BurpSuite/IMAGES",
+    "5.Explotación_vulnerabilidades/28.Enumeración del sistema.md",
     "6.BurpSuite",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240816223257.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240816221959.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003930.png",
     "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003658.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003636.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003616.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003558.png",
-    "5.Explotación_vulnerabilidades/IMAGES/Pasted image 20240815003320.png",
     "5.Explotación_vulnerabilidades/26.Tipos de Payloads.md",
     "5.Explotación_vulnerabilidades/25.Tipos de Shells.md",
     "5.Explotación_vulnerabilidades/IMAGES",
@@ -189,12 +194,7 @@
     "4.Servicios comunes y Gestor de contenidos/4.1 Services/20.SMB-SAMBA.md",
     "4.Servicios comunes y Gestor de contenidos/4.1 Services/19.HTTP-HTTPS.md",
     "Apuntes_variados/Apuntes_variados/Bienvenido.md",
-    "Apuntes_variados/Apuntes_variados/2024-07-17.md",
-    "4.Servicios comunes y Gestor de contenidos/sortspec.md",
     "4.Servicios comunes y Gestor de contenidos/IMAGES",
-    "4.Servicios comunes y Gestor de contenidos",
-    "3.Docker/IMAGES",
-    "3.Docker",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
