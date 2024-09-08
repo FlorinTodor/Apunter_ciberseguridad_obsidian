@@ -11,11 +11,9 @@
             "id": "90581a52534c0fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/2. Máquina XSS.md",
-                "mode": "source",
-                "source": false
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150334.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/2. Máquina XSS.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150334.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/2. Máquina XSS.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150334.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/2. Máquina XSS.md"
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150334.png"
               }
             }
           }
@@ -149,18 +147,20 @@
   },
   "active": "fd43bcfdd0c7b2cb",
   "lastOpenFiles": [
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/1. Pruebas de XSS.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908125708.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/2. Máquina XSS.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907133818.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907135100.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907135003.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907133903.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907133845.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907132802.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907132900.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907132207.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907124602.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240907124356.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908151005.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150944.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150923.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150912.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150438.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150421.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150408.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150355.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150346.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES/Pasted image 20240908150334.png",
+    "2.Reconocimiento/5.WEB/12.Fuzzing y enumeración de archivos en un servidor web.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/1. Pruebas de XSS.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/0.XSS.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES",
@@ -193,8 +193,6 @@
     "sortspec.md",
     "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/24. CMS-Magento.md",
     "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/23. CMS-Drupal.md",
-    "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/22.CMS-Joomla.md",
-    "4.Servicios comunes y Gestor de contenidos/4.2 CMS ( Gestor de conectenidos)/21.CMS-WordPress.md",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
