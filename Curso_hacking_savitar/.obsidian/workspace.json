@@ -11,11 +11,9 @@
             "id": "90581a52534c0fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md",
-                "mode": "source",
-                "source": false
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md"
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png"
               }
             }
           }
@@ -149,20 +147,23 @@
   },
   "active": "fd43bcfdd0c7b2cb",
   "lastOpenFiles": [
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920224122.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/2. Automatizar XXE.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920223248.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920223215.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920222922.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922190730.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/1.Pruebas de LFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/0.LFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922190632.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922190440.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922185241.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922185138.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922185011.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922184347.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922184030.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922183851.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/1. Pruebas de XXE.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920221248.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920221327.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920221319.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920220620.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920220201.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920220224.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/Pasted image 20240920215758.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/2. Automatizar XXE.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/1. Pruebas de XSS.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)",
@@ -180,9 +181,7 @@
     "6.BurpSuite/29. Burpsuite Tool.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI",
     "7. OWASP TOP 10 y Vulnerabilidades WEB",
-    "6.BurpSuite/IMAGES",
     "5.Explotación_vulnerabilidades/28.Enumeración del sistema.md",
-    "6.BurpSuite",
     "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
     "5.Explotación_vulnerabilidades/26.Tipos de Payloads.md",
     "5.Explotación_vulnerabilidades/25.Tipos de Shells.md",
@@ -193,8 +192,6 @@
     "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
     "0.Apuntes_variados/Apuntes_variados/SSL.md",
     "0.Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
-    "4.Servicios comunes y Gestor de contenidos/4.1 Services/18.SSH.md",
-    "1.Conceptos Básicos/2.Direcciones MAC (OUI y NIC).md",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
