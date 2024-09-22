@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "f19db540225fb021",
+    "type": "split",
+    "children": [
+      {
+        "id": "a211a88faaaa875a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90581a52534c0fa8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caee83a81d81eeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef38be3b3b0d5eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd43bcfdd0c7b2cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68caf1a8268d08a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb422905d6b42e4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c1eaffa93afc4ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ace5ee2436af8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036f9573d9e30030",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2619858b166bb0b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a89856375b56409",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b58c139a2be5f3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "fd43bcfdd0c7b2cb",
+  "lastOpenFiles": [
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/2.1 Pruebas de Log Poisoning.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200921.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200855.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200431.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200420.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200119.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200016.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922195900.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922195835.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922195808.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/2.0 Log Poisoning LFI -> RCE.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/1.Pruebas RFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/0. RFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/Sin nombre",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/1.Pruebas de LFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/0.LFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/1. Pruebas de XXE.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES/2. Automatizar XXE.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/1. Pruebas de XSS.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/2. Máquina XSS.md",
+    "2.Reconocimiento/5.WEB/12.Fuzzing y enumeración de archivos en un servidor web.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/0.XSS.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/2. Inyecciones.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.2 Cross-Site Scripting XSS.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/0.SQLI.md",
+    "6.BurpSuite/29. Burpsuite Tool.md",
+    "5.Explotación_vulnerabilidades/28.Enumeración del sistema.md",
+    "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
+    "5.Explotación_vulnerabilidades/26.Tipos de Payloads.md",
+    "5.Explotación_vulnerabilidades/25.Tipos de Shells.md",
+    "1.Conceptos Básicos/5.Subnetting.md",
+    "4.Servicios comunes y Gestor de contenidos/4.1 Services/17.FTP.md",
+    "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
+    "Apuntes_variados/Apuntes_variados/Sin título.canvas"
+  ]
+}
