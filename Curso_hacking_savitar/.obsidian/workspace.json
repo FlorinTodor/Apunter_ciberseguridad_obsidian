@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png"
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png",
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png"
+                "file": "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png"
               }
             }
           }
@@ -147,18 +147,25 @@
   },
   "active": "fd43bcfdd0c7b2cb",
   "lastOpenFiles": [
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922190730.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/2.1 Pruebas de Log Poisoning.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200942.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200921.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200855.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200431.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200420.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200119.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922200016.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922195900.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922195835.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922195808.png",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/2.0 Log Poisoning LFI -> RCE.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/1.Pruebas RFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/0. RFI.md",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/Sin nombre",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)/IMAGES",
+    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.5 Remote File Inclusion (RFI)",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/1.Pruebas de LFI.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922191007.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/0.LFI.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922190632.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922190440.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922185241.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922185138.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922185011.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922184347.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922184030.png",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES/Pasted image 20240922183851.png",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/1. Pruebas de XXE.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.3 XML External Entity Injection (XxE)/0.XXE.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.4 Local File Inclusion LFI/IMAGES",
@@ -177,10 +184,7 @@
     "7. OWASP TOP 10 y Vulnerabilidades WEB/IMAGES",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/1.Crear Database.md",
     "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/0.SQLI.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI/IMAGES",
     "6.BurpSuite/29. Burpsuite Tool.md",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB/7.1 SQLI",
-    "7. OWASP TOP 10 y Vulnerabilidades WEB",
     "5.Explotación_vulnerabilidades/28.Enumeración del sistema.md",
     "5.Explotación_vulnerabilidades/27. Tipos de exploit (explotación).md",
     "5.Explotación_vulnerabilidades/26.Tipos de Payloads.md",
@@ -188,10 +192,6 @@
     "1.Conceptos Básicos/5.Subnetting.md",
     "4.Servicios comunes y Gestor de contenidos/4.1 Services/17.FTP.md",
     "1.Conceptos Básicos/4.Protocolos comunes (UDP, TCP) y el famoso Three-Way Handshake.md",
-    "1.Conceptos Básicos/3.Modelo OSI.md",
-    "1.Conceptos Básicos/1.Direcciones IP (Ipv4 e Ipv6).md",
-    "0.Apuntes_variados/Apuntes_variados/SSL.md",
-    "0.Apuntes_variados/Apuntes_variados/ENCRYPT PASSWORD.md",
     "Apuntes_variados/Apuntes_variados/Sin título.canvas"
   ]
 }
